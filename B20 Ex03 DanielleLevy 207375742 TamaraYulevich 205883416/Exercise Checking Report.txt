@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 207375742 - Danielle Levy
+Second Student Details: 205883416 - Tamara Yulevich
+Delivery Date.........: 14 - June - 2020
+Delivered In Delay....: No
+Delay Reason..........: null
+Visual Studio Version.: 2019
+Comments..............: null
+=======================End Exercise Checking Report=========================
